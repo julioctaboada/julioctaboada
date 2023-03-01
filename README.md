@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julioctaboada
-- 👀 I’m interested in C#, C/C++ Nvidia Cuda and SQL
-- 🌱 I’m currently learning WPF MVVM
+- 👀 I’m interested in C#, C/C++ Nvidia Cuda, SQL and PHP
+- 🌱 I’m currently learning WPF MVVM, Blazor Core Hosted, ASP.Net and Entity Framework.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
